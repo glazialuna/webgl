@@ -1,0 +1,73 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:12.01.2019 23:18:23
+
+newmtl yiqinglou_002
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka ggtt_wapian_001.jpg
+	map_Kd ggtt_wapian_001.jpg
+
+newmtl yiqinglou_004
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka ggtt_dizhuan_002.jpg
+	map_Kd ggtt_dizhuan_002.jpg
+
+newmtl yiqinglou_001
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka BHGY_JZ_QHD_15_YQL_001.jpg
+	map_Kd BHGY_JZ_QHD_15_YQL_001.jpg
+
+newmtl yiqinglou_003
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka BHGY_JZ_QHD_15_YQL.png
+	map_Kd BHGY_JZ_QHD_15_YQL.png
+	map_d BHGY_JZ_QHD_15_YQL.png
+
+newmtl yiqinglou_006
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka ggtt_chuantiao_005.jpg
+	map_Kd ggtt_chuantiao_005.jpg

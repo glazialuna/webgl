@@ -1,0 +1,96 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:13.01.2019 03:20:59
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 0.00 0.00 0.00
+	Ks 0.35 0.35 0.35
+
+newmtl wire_006134006
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.02 0.53 0.02
+	Kd 0.02 0.53 0.02
+	Ks 0.35 0.35 0.35
+
+newmtl ferfe
+	Ns 26.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.45 0.66 0.48
+	Kd 0.45 0.66 0.48
+	Ks 0.22 0.25 0.23
+	Ke 0.00 0.00 0.00
+
+newmtl dfdult
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka Map__28_Gradient.tga
+	map_Kd Map__28_Gradient.tga
+
+newmtl BUTTBODY
+	Ns 67.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 0.40 0.40 0.40
+	Ks 0.39 0.39 0.39
+	Ke 0.00 0.00 0.00
+
+newmtl BUTTFACE
+	Ns 35.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.29 0.12 0.12
+	Kd 0.58 0.25 0.25
+	Ks 0.26 0.26 0.26
+	Ke 0.00 0.00 0.00
+
+newmtl BUTTPIEZ
+	Ns 38.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 0.00 0.00 0.00
+	Ks 0.90 0.90 0.90
+	Ke 0.00 0.00 0.00
+
+newmtl BUTTEYE
+	Ns 28.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.01 0.00 0.00
+	Kd 0.08 0.01 0.07
+	Ks 0.60 0.60 0.60
+	Ke 0.00 0.00 0.00

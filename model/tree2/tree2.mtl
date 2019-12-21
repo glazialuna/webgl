@@ -1,0 +1,88 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:12.01.2019 15:17:51
+
+newmtl _A01949_A01949HuangshanPineNeedles
+	Ns 19.90
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 1.00 1.00 1.00
+	Ks 0.99 1.00 1.00
+	Ke 0.00 0.00 0.00
+	map_Ka HuangshanPineNeedles.png
+	map_Kd HuangshanPineNeedles.png
+	map_Ks HuangshanPineNeedles_Spec.png
+	map_d HuangshanPineNeedles.png
+	map_bump HuangshanPineNeedles_Normal.png
+	bump HuangshanPineNeedles_Normal.png
+
+newmtl _A01949_A01949Branches_03
+	Ns 30.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 1.00 1.00 1.00
+	Ks 0.90 0.90 0.90
+	Ke 0.00 0.00 0.00
+	map_Ka Branches_03.png
+	map_Kd Branches_03.png
+	map_d Branches_03.png
+	map_bump Branches_03_Normal.png
+	bump Branches_03_Normal.png
+
+newmtl _A01949_A01949Branches_08
+	Ns 30.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 1.00 1.00 1.00
+	Ks 0.90 0.90 0.90
+	Ke 0.00 0.00 0.00
+	map_Ka Branches_08.png
+	map_Kd Branches_08.png
+	map_d Branches_08.png
+	map_bump Branches_08_Normal.png
+	bump Branches_08_Normal.png
+
+newmtl _A01949_A01949Cap_01
+	Ns 30.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 1.00 1.00 1.00
+	Ks 0.90 0.90 0.90
+	Ke 0.00 0.00 0.00
+	map_Ka Cap_01.png
+	map_Kd Cap_01.png
+	map_d Cap_01.png
+	map_bump Cap_01_Normal.png
+	bump Cap_01_Normal.png
+
+newmtl _A01949_A01949HuangshanPineBark
+	Ns 64.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 1.00 1.00 1.00
+	Ks 0.28 0.28 0.28
+	Ke 0.00 0.00 0.00
+	map_Ka HuangshanPineBark.png
+	map_Kd HuangshanPineBark.png
+	map_d HuangshanPineBark.png
+	map_bump HuangshanPineBark_Normal.png
+	bump HuangshanPineBark_Normal.png

@@ -1,0 +1,190 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:14.01.2019 03:06:52
+
+newmtl c8e3e92b_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka c8e3e92b.jpg
+	map_Kd c8e3e92b.jpg
+
+newmtl 4bf6c5e9_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka 4bf6c5e9.jpg
+	map_Kd 4bf6c5e9.jpg
+
+newmtl aa0ce36d_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka aa0ce36d.jpg
+	map_Kd aa0ce36d.jpg
+
+newmtl d317b958_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka d317b958.jpg
+	map_Kd d317b958.jpg
+
+newmtl 7cfb6fa9_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka 7cfb6fa9.jpg
+	map_Kd 7cfb6fa9.jpg
+
+newmtl 0e1c061d_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka 0e1c061d.jpg
+	map_Kd 0e1c061d.jpg
+
+newmtl e4716e6f_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka e4716e6f.jpg
+	map_Kd e4716e6f.jpg
+
+newmtl 67018f10_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka 67018f10.jpg
+	map_Kd 67018f10.jpg
+	map_d 67018f10.jpg
+
+newmtl e27efceb_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka e27efceb.jpg
+	map_Kd e27efceb.jpg
+	map_d e27efceb.jpg
+
+newmtl fec0aaac_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka fec0aaac.jpg
+	map_Kd fec0aaac.jpg
+	map_d fec0aaac.jpg
+
+newmtl f611606d_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka f611606d.jpg
+	map_Kd f611606d.jpg
+	map_d f611606d.jpg
+
+newmtl 222ae1b2_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka 222ae1b2.jpg
+	map_Kd 222ae1b2.jpg
+	map_d 222ae1b2.jpg
+
+newmtl f21d9569_dds
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.70 0.70 0.70
+	Kd 0.70 0.70 0.70
+	Ks 0.10 0.10 0.10
+	Ke 0.00 0.00 0.00
+	map_Ka f21d9569.jpg
+	map_Kd f21d9569.jpg
+	map_d f21d9569.jpg

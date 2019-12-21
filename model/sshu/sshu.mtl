@@ -1,0 +1,90 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:13.01.2019 12:08:19
+
+newmtl bsth_gsj_jz_001_06
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_06.dds
+	map_Kd bsth_gsj_jz_001_06.dds
+
+newmtl bsth_gsj_jz_001_05
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_05.dds
+	map_Kd bsth_gsj_jz_001_05.dds
+
+newmtl bsth_gsj_jz_001_03
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_03.dds
+	map_Kd bsth_gsj_jz_001_03.dds
+	map_d bsth_gsj_jz_001_03.dds
+
+newmtl bsth_gsj_jz_001_02
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_02.dds
+	map_Kd bsth_gsj_jz_001_02.dds
+	map_d bsth_gsj_jz_001_02.dds
+
+newmtl bsth_gsj_jz_001_04
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_04.dds
+	map_Kd bsth_gsj_jz_001_04.dds
+	map_d bsth_gsj_jz_001_04.dds
+
+newmtl bsth_gsj_jz_001_01
+	Ns 10.00
+	Ni 1.50
+	d 1.00
+	Tr 0.00
+	Tf 1.00 1.00 1.00 
+	illum 2
+	Ka 0.59 0.59 0.59
+	Kd 0.59 0.59 0.59
+	Ks 0.00 0.00 0.00
+	Ke 0.00 0.00 0.00
+	map_Ka bsth_gsj_jz_001_01.dds
+	map_Kd bsth_gsj_jz_001_01.dds
+	map_d bsth_gsj_jz_001_01.dds
